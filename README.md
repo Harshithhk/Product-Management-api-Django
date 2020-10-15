@@ -2,4 +2,4 @@
 
 - The API is made using django-rest-frameword.
 
-- Feel free to pull it.
+- Feel free to use it.
